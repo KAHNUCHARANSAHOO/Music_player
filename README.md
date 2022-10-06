@@ -1,7 +1,7 @@
 # Music_player
-using HTNL,CSS,JS creat a wonderfull frontend website
+using HTNL, CSS, and JS creates a wonderful frontend website
 
-website link:-https://tiny-syrniki-521800.netlify.app
+website link:-https://sound-world.netlify.app
 
 output:
 
